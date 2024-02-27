@@ -1,5 +1,5 @@
 # pyqt_paint_app
-Simply paint app using PyQt
+Simple paint app using PyQt
 
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRxcHc2eTRrbDBhbHA1eXp6em9leGRiZjh0MzE5bXFjazFwZHdoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Tx1QP8w1aTwyPLOyh/giphy.gif)
@@ -7,7 +7,6 @@ Simply paint app using PyQt
 Project Specifications:
 
 - Create "Paint" inspired desktop app
-- Add website to GitHub to continue building portfolio
 
 Technical Requirements:
 
